@@ -1,5 +1,5 @@
 ---
-title: "classpractice"
+title: "PracticeRepo"
 author: "Vincent Tamakloe"
 date: "2025-01-22"
 output: html_document
